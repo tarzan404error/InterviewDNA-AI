@@ -1,5 +1,12 @@
 # 🧬 InterviewDNA AI
 
+## 🔗 Quick Links
+
+- 🎥 Demo Video: https://your-video-link
+- 🌐 Live Demo: https://interviewdna-ai.streamlit.app/
+
+  
+
 ### Beyond Interview Scores — We Measure Interview Behavior
 
 <p align="center">
