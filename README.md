@@ -2,7 +2,7 @@
 
 ## 🔗 Quick Links
 
-- 🎥 Demo Video: https://your-video-link
+- 🎥 Demo Video: Soon.....!
 - 🌐 Live Demo: https://interviewdna-ai.streamlit.app/
 
   
