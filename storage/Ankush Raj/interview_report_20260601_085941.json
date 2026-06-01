@@ -1,0 +1,181 @@
+{
+  "candidate_name": "Ankush Raj",
+  "timestamp": "2026-06-01T08:59:41.103320",
+  "resume_profile": {
+    "name": "ANKUSH RAJ",
+    "title": "Professional",
+    "skills": [
+      "Github",
+      "Java",
+      "Javascript",
+      "Machine Learning",
+      "Python",
+      "Tensorflow"
+    ],
+    "projects": [
+      "."
+    ],
+    "education": [
+      "Bachelor of Technology in Computer Science Engineering 2024 – 2028",
+      "College Social Media App | Web Development",
+      "– Developed a social media platform for college students with profile creation, posts, likes, comments, and",
+      "• Secured 1st Position in College Hackathon."
+    ],
+    "experience": [
+      "machine learning, and software development with hands-on project experience in voice assistants, WhatsApp automation,",
+      "hand gesture control, and social media applications. Seeking an internship opportunity to gain industry experience and",
+      "– Developed a personal voice assistant capable of responding to voice commands, opening applications,",
+      "– Built an AI-powered WhatsApp chatbot for automated replies, smart responses, and workflow management.",
+      "– Developed a social media platform for college students with profile creation, posts, likes, comments, and"
+    ],
+    "summary": []
+  },
+  "resume_accuracy": {
+    "overall_accuracy": 95,
+    "quality_level": "Excellent 🌟",
+    "section_scores": {
+      "experience": 100,
+      "skills": 100,
+      "education": 100,
+      "contact": 100
+    }
+  },
+  "job_profile": {
+    "raw_text": "Senior Accountant Job Description\nSections\nDetails\n1\nJob Title\nSenior Accountant\n2\nLocation\nNew York, NY (Hybrid)\nRole Summary\n3\nThe Senior Accountant will be responsible for managing financial statements, overseeing accounting functions, and ensuring compliance with accounting regulations. This role involves preparing and analyzing financial reports to ensure the company's financial health.\nKey Responsibilities\n- Prepare and review monthly, quarterly, and annual financial statements.\nOversee accounts payable, accounts receivable, and payroll functions.\nManage general ledger entries and ensure accuracy.\n4\n- Perform account reconciliations and prepare financial reports.\nSupervise junior accountants and provide guidance.\nEnsure compliance with tax laws and regulations.\nAssist in budget preparation and financial forecasting.\n- Identify areas for process improvement and implement solutions.\nRequired Qualifications\n5\nBachelor's degree in Accounting or Finance, CPA preferred, 5+ years of experience in accounting.\nCompensation & Benefits\n6\n$80,000 - $95,000 annually, Health insurance, 401(k) retirement plan, Paid time off, Performance bonuses.\nPresented with mind",
+    "required_skills": [
+      "Aws"
+    ],
+    "responsibilities": [
+      "- Prepare and review monthly, quarterly, and annual financial statements.",
+      "Oversee accounts payable, accounts receivable, and payroll functions.",
+      "Manage general ledger entries and ensure accuracy.",
+      "4",
+      "- Perform account reconciliations and prepare financial reports.",
+      "Supervise junior accountants and provide guidance.",
+      "Ensure compliance with tax laws and regulations.",
+      "Assist in budget preparation and financial forecasting.",
+      "- Identify areas for process improvement and implement solutions.",
+      "Required Qualifications",
+      "5"
+    ],
+    "experience_level": "Entry",
+    "keywords": [
+      "financial",
+      "accounting",
+      "senior",
+      "accountant",
+      "ensure",
+      "statements",
+      "functions",
+      "compliance",
+      "regulations",
+      "reports",
+      "health",
+      "prepare"
+    ]
+  },
+  "question_history": [
+    {
+      "question_id": 1,
+      "category": "Technical",
+      "difficulty": "Easy",
+      "text": "Explain the difference between a list and a tuple in Python, and when you would choose one over the other.",
+      "score": 67.5,
+      "accuracy": 54.0,
+      "clarity": 85.0,
+      "depth": 66.0,
+      "relevance": 54.0,
+      "time_taken": 49.918128490448,
+      "is_pressure": false,
+      "answer": "The fundamental difference between a list and a tuple in Python is mutability: lists are mutable (can be changed after creation), whereas tuples are immutable (cannot be changed after creation",
+      "explanation": "Your response scored 67.5 overall. Accuracy: 54.0, Clarity: 85.0, Depth: 66.0, Relevance: 54.0. Time efficiency is 92.1% for the time taken.",
+      "is_plagiarism_suspicious": false,
+      "is_time_anomaly_suspicious": false,
+      "plagiarism_risk": 0.0,
+      "time_anomaly_risk": 0.0
+    },
+    {
+      "question_id": 2,
+      "category": "Technical",
+      "difficulty": "Easy",
+      "text": "What is a REST API, and why is it important for modern web applications?",
+      "score": 45.8,
+      "accuracy": 4.0,
+      "clarity": 85.0,
+      "depth": 66.0,
+      "relevance": 4.0,
+      "time_taken": 28.84199833869934,
+      "is_pressure": false,
+      "answer": "The fundamental difference between a list and a tuple in Python is mutability: lists are mutable (can be changed after creation), whereas tuples are immutable (cannot be changed after creation",
+      "explanation": "Your response scored 45.8 overall. Accuracy: 4.0, Clarity: 85.0, Depth: 66.0, Relevance: 4.0. Time efficiency is 100.0% for the time taken.",
+      "is_plagiarism_suspicious": false,
+      "is_time_anomaly_suspicious": false,
+      "plagiarism_risk": 0.0,
+      "time_anomaly_risk": 0.0
+    },
+    {
+      "question_id": 3,
+      "category": "Technical",
+      "difficulty": "Easy",
+      "text": "Describe the purpose of version control systems like Git and how they benefit team development.",
+      "score": 45.8,
+      "accuracy": 4.0,
+      "clarity": 85.0,
+      "depth": 66.0,
+      "relevance": 4.0,
+      "time_taken": 2.485761880874634,
+      "is_pressure": false,
+      "answer": "The fundamental difference between a list and a tuple in Python is mutability: lists are mutable (can be changed after creation), whereas tuples are immutable (cannot be changed after creation",
+      "explanation": "Your response scored 45.8 overall. Accuracy: 4.0, Clarity: 85.0, Depth: 66.0, Relevance: 4.0. Time efficiency is 100.0% for the time taken.",
+      "is_plagiarism_suspicious": false,
+      "is_time_anomaly_suspicious": false,
+      "plagiarism_risk": 0.0,
+      "time_anomaly_risk": 0.0
+    },
+    {
+      "question_id": 4,
+      "category": "Technical",
+      "difficulty": "Easy",
+      "text": "What is SQL, and how does it differ from NoSQL databases? Provide one use case for each.",
+      "score": 45.8,
+      "accuracy": 4.0,
+      "clarity": 85.0,
+      "depth": 66.0,
+      "relevance": 4.0,
+      "time_taken": 2.429885149002075,
+      "is_pressure": false,
+      "answer": "The fundamental difference between a list and a tuple in Python is mutability: lists are mutable (can be changed after creation), whereas tuples are immutable (cannot be changed after creation",
+      "explanation": "Your response scored 45.8 overall. Accuracy: 4.0, Clarity: 85.0, Depth: 66.0, Relevance: 4.0. Time efficiency is 100.0% for the time taken.",
+      "is_plagiarism_suspicious": false,
+      "is_time_anomaly_suspicious": false,
+      "plagiarism_risk": 0.0,
+      "time_anomaly_risk": 0.0
+    }
+  ],
+  "dna_profile": {
+    "knowledge_index": 41.2,
+    "communication_index": 50.8,
+    "adaptability_index": 30.0,
+    "confidence_index": 48.7,
+    "consistency_index": 0.0,
+    "pressure_handling_index": 50.0,
+    "final_readiness": 38.0,
+    "integrity_score": 100.0,
+    "plagiarism_flags": 0,
+    "time_anomaly_flags": 0,
+    "recommendation": "Needs Improvement",
+    "strengths": [
+      "High interview integrity"
+    ],
+    "weaknesses": [
+      "Technical depth needs improvement",
+      "Communication could be more concise and structured",
+      "Adaptability under changing questions is limited"
+    ],
+    "improvement_areas": [
+      "Use more domain-specific terms when answering technical questions.",
+      "Focus on structured, complete answers with measurable outcomes.",
+      "Practice time-managed responses for tighter delivery."
+    ]
+  }
+}
