@@ -2,8 +2,9 @@
 
 ## 🔗 Quick Links
 
-- 🎥 Demo Video: Soon.....!
 - 🌐 Live Demo: https://interviewdna-ai.streamlit.app/
+- 🎥 Demo Video: Soon: https://drive.google.com/drive/folders/1yfM2Xb78QifmrCgcxziVRC3Vk8c1reUi?usp=sharing
+
 
   
 
